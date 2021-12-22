@@ -1,4 +1,5 @@
 # login_webapp
 
-run
-**python3 app.py localhost 5050**
+To run the website:
+
+    python3 app.py localhost 5050
